@@ -4,7 +4,7 @@ body {
 table.greyGridTable {
   border: 2px solid #ffffff;
   width: 100%;
-  text-align: center;
+  text-align: left;
   border-collapse: collapse;
 }
 table.greyGridTable td,
